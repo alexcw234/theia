@@ -66,12 +66,23 @@ ul.nav-tabs > li > a:hover {
 
 }
 
-.team-card {
+.concept-description > p {
+  margin-top: 15%;
+  margin-bottom: 15%;
+  text-align: center;
 
 }
 
+.team-row > h4 {
+  text-align: center;
+}
+.team-card {
+margin-left:10%;
+margin-right:10%;
+}
+
 .team-card:hover {
-  
+
 }
 
 .team-card > h4,
