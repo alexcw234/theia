@@ -61,7 +61,26 @@ ul.nav-tabs > li > a:hover {
 
 
 .img-thumbnail {
-  margin:0.5vw;
+  margin:1vw;
   display:block;
 
+}
+
+.team-card {
+
+}
+
+.team-card:hover {
+  
+}
+
+.team-card > h4,
+.team-card > h6 {
+  text-align: center;
+}
+
+.avatar {
+  padding-left:10%;
+  padding-right:10%;
+  padding-top:10%;
 }
